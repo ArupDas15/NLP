@@ -14,7 +14,7 @@ NLP_final_project.ipynb:
 
 This notebook contains the entire code for the project which creates various models and evaluates them using the metrics mentioned in the report.
 
-NLP_final_project_custom_search_application.ipynb:
+[NLP_final_project_custom_search_application.ipynb](https://github.com/ArupDas15/NLP/blob/master/Course_Project/Code/NLP_final_project_custom_search_application.ipynb):
 
 
 This notebook contains the code for creating the custom search application to search for a query. It will take approximately 2 minutes to run this code.
