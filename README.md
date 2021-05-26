@@ -1,5 +1,5 @@
 # NLP
-This repository contains the assignments and project done as part of enhancing the learning experience in the CS6370-Natural Language Processing Course (https://www.cse.iitm.ac.in/course_details.php?arg=MjI=) offered in Indian Institute of Technology Madras by Prof. Sutanu Chakraborti (https://www.cse.iitm.ac.in/~sutanuc/).
+This repository contains the assignments and project done as part of enhancing the learning experience in the [CS6370-Natural Language Processing Course](https://www.cse.iitm.ac.in/course_details.php?arg=MjI=) offered in Indian Institute of Technology Madras by [Prof. Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
 
 Directions to run the code:
