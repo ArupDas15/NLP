@@ -28,7 +28,7 @@ NLP
        └-- CS20S012_CS20S016_Project_Proposal.pdf      
 ```
 
-## Set up and Installation:##
+## Set up and Installation: ##
 To download the repository: 
 
 `git clone https://github.com/ArupDas15/NLP.git`
@@ -55,5 +55,5 @@ Upload [cranfield dataset zip file](https://github.com/ArupDas15/NLP/tree/master
 For example: `!unzip /content/cranfield.zip`
 
 ## Contributors ##
-1. [Naveen Vakada](https://github.com/vakadanaveen)
-2. [Arup Das](https://github.com/ArupDas15)
+1. Naveen Vakada
+2. Arup Das
