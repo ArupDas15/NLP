@@ -4,7 +4,7 @@ This repository contains the assignments and project done as part of enhancing t
 ## Folder Structure ##
 ```
 NLP
-│   README.md    
+│-- README.md    
 │   
 └───Course_Project
    │-- NLP_Course_project_ppt.pdf
