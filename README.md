@@ -53,3 +53,7 @@ NLP_final_project_custom_search_application.ipynb:
 
 Upload [cranfield dataset zip file](https://github.com/ArupDas15/NLP/tree/master/Course_Project/Code/cranfield) into your colab by clicking upload the file symbol present in the left panel prior to executing any other code cell. Change the path of the crandfield dataset zip file with your path instead of our google drive path.</br>
 For example: `!unzip /content/cranfield.zip`
+
+## Contributors ##
+1. [Naveen Vakada](https://github.com/vakadanaveen)
+2. [Arup Das](https://github.com/ArupDas15)
