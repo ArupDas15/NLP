@@ -21,7 +21,8 @@ NLP
    |   │-- LSA+BM25.csv
    |   |-- LSA+QE.csv
    |   |-- LSA.csv
-   |   └-- Tfidf.csv
+   |   |-- Tfidf.csv
+   |   └-- a-values.csv
    |
    └───Project Proposal
        |-- Architecture_of_Proposed_Approach.png
@@ -54,6 +55,8 @@ NLP_final_project_custom_search_application.ipynb:
 Upload [cranfield dataset zip file](https://github.com/ArupDas15/NLP/tree/master/Course_Project/Code/cranfield) into your colab by clicking upload the file symbol present in the left panel prior to executing any other code cell. Change the path of the crandfield dataset zip file with your path instead of our google drive path.</br>
 For example: `!unzip /content/cranfield.zip`
 
+## Report ##
+The final report can be found [here](https://github.com/ArupDas15/NLP/blob/master/Course_Project/Report.pdf).
 ## Contributors ##
 1. Naveen Vakada
 2. Arup Das
