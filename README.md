@@ -1,6 +1,6 @@
 # NLP
 This repository contains the assignments and project done as part of enhancing the learning experience in the [CS6370-Natural Language Processing Course](https://www.cse.iitm.ac.in/course_details.php?arg=MjI=) offered in Indian Institute of Technology Madras by [Prof. Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
-
+In this project we analyze the results of our current search engine which has been implemented using a simple Vector Space Model (VSM) where the docuent vectors are represented using the TF IDF scores (**More details in this repository**: https://github.com/vakadanaveen/NLP). We list the shortcoming(s) and explore improvisations to improve the search engine by addressing its current limitations.
 ## Folder Structure ##
 ```
 NLP
