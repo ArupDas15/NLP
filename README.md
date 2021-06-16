@@ -33,7 +33,8 @@ NLP
    |
    └───Project Proposal
        |-- Architecture_of_Proposed_Approach.png
-       └-- CS20S012_CS20S016_Project_Proposal.pdf      
+       |-- CS20S012_CS20S016_Project_Proposal.pdf
+       └-- CS20S012_CS20S016_Final_Presentation.pdf
 ```
 
 ## Set up and Installation: ##
