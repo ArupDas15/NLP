@@ -65,6 +65,9 @@ For example: `!unzip /content/cranfield.zip`
 
 ## Report ##
 The final report can be found [here](https://github.com/ArupDas15/NLP/blob/master/Course_Project/Report.pdf).
+
+## Video Presentation ##
+The rigorous methodology used to arrive at the best IRS architecture is described in the video presentation [here](https://youtu.be/oQJjh6j2D18). 
 ## Contributors ##
 1. Naveen Vakada
 2. Arup Das
